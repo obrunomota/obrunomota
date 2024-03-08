@@ -16,6 +16,12 @@
 ✉️ &nbsp; Email bruengprod@gmail.com. Tentarei responder o mais rápido possível!\
 📄 &nbsp; Você pode verificar meu [Currículo](https://drive.google.com/file/d/1IqrHM2-RSTZ3lw7esYEqtwtWFla8fGUW/view?usp=drive_link) para mais detalhes sobre minhas experiências.
 
+<div>
+<a href="https://github.com/obrunomota">
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBrunoMota&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=oBrunoMota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+</div>
+
 
 ### 🛠 &nbsp;Tech Stack
 
@@ -39,11 +45,6 @@
 
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/kibana/kibana-original.svg" width="30" height="30" /><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/logstash/logstash-original.svg" width="30" height="30" />         
 
-<div>
-<a href="https://github.com/obrunomota">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBrunoMota&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=oBrunoMota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-</div>
           
 ### 📫 &nbsp; Contatos
 
