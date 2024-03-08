@@ -39,6 +39,5 @@ Aqui estão algumas idéias para você começar:
 <img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=obrunomota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
 
-![Snake animation](https://github.com/obrunomota/obrunomota/blob/output/github-contribution-grid-snake.svg)
 
 
