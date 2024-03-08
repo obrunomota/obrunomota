@@ -41,8 +41,8 @@
 
 <div>
 <a href="https://github.com/obrunomota">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunomota&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=obrunomota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=oBrunoMota&layout=compact&langs_count=7&theme=dracula"/>
+<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=oBrunoMota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
 </div>
           
 ### 📫 &nbsp; Contatos
