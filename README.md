@@ -48,9 +48,9 @@
 ### 📫 &nbsp; Contatos
 
 <div>
-<a href="https://github.com/obrunomota">
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=obrunomota&layout=compact&langs_count=7&theme=dracula"/>
-<img loading="lazy" height="180em" src="https://github-readme-stats.vercel.app/api?username=obrunomota&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
+<a href="https://www.linkedin.com/in/bruno-mota-4761a32b3/" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+<a href = "mailto:bruengprod@gmail.com"><img loading="lazy" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href="https://www.youtube.com/channel/UCBtoHNYyLKrc3mlfyzkY3LQ" target="_blank"><img loading="lazy" src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
 </div>
 
 <!--
